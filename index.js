@@ -1,95 +1,95 @@
 const perguntas = [
-    {
-      pergunta: "O que é JavaScript?",
-      respostas: [
-        "Uma linguagem de programação de servidor",
-        "Uma linguagem de marcação",
-        "Uma linguagem de programação de script para navegador",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Qual é a forma correta de declarar uma variável em JavaScript?",
-      respostas: [
-        "let x = 5;",
-        "const x = 5;",
-        "var x = 5;",
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "O que é uma função em JavaScript?",
-      respostas: [
-        "Um tipo de dado",
-        "Um objeto",
-        "Um bloco de código reutilizável",
-      ],
-      correta: 2
-    },
-    {
-      pergunta: "Como você faz um comentário de uma linha em JavaScript?",
-      respostas: [
-        "// Este é um comentário",
-        "/* Este é um comentário */",
-        "' Este é um comentário",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual método é usado para imprimir algo no console em JavaScript?",
-      respostas: [
-        "console.print()",
-        "console.log()",
-        "print.console()",
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "O que é o DOM em JavaScript?",
-      respostas: [
-        "Um modelo de design para objetos",
-        "Um modelo de documento para objetos",
-        "Um modelo de dados para objetos",
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Qual operador é usado para comparar igualdade em valor e tipo em JavaScript?",
-      respostas: [
-        "==",
-        "===",
-        "=",
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "O que é o JSON em JavaScript?",
-      respostas: [
-        "Uma linguagem de programação",
-        "Um formato de intercâmbio de dados",
-        "Um método de impressão na tela",
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Como você adiciona um evento a um elemento HTML em JavaScript?",
-      respostas: [
-        "element.attachEvent()",
-        "element.addEventListener()",
-        "element.addEvent()",
-      ],
-      correta: 1
-    },
-    {
-      pergunta: "Qual é a função do operador 'typeof' em JavaScript?",
-      respostas: [
-        "Retorna o tipo de uma variável",
-        "Compara dois valores",
-        "Concatena duas strings",
-      ],
-      correta: 0
-    }
-  ];
+  {
+    pergunta: "Qual é a capital de Acre?",
+    respostas: [
+      "Porto Velho",
+      "Manaus",
+      "Rio Branco",
+    ],
+    correta: 2
+  },
+  {
+    pergunta: "Qual é a capital de Alagoas?",
+    respostas: [
+      "Recife",
+      "Maceió",
+      "João Pessoa",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual é a capital do Amapá?",
+    respostas: [
+      "Belém",
+      "Macapá",
+      "Palmas",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual é a capital do Amazonas?",
+    respostas: [
+      "Cuiabá",
+      "Manaus",
+      "Porto Velho",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual é a capital da Bahia?",
+    respostas: [
+      "Salvador",
+      "Aracaju",
+      "Fortaleza",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é a capital do Ceará?",
+    respostas: [
+      "Natal",
+      "Fortaleza",
+      "São Luís",
+    ],
+    correta: 1
+  },
+  {
+    pergunta: "Qual é a capital do Espírito Santo?",
+    respostas: [
+      "Vitória",
+      "Belo Horizonte",
+      "Curitiba",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é a capital de Goiás?",
+    respostas: [
+      "Goiânia",
+      "Brasília",
+      "Campo Grande",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é a capital do Maranhão?",
+    respostas: [
+      "São Luís",
+      "Recife",
+      "João Pessoa",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é a capital do Mato Grosso?",
+    respostas: [
+      "Palmas",
+      "Cuiabá",
+      "Porto Alegre",
+    ],
+    correta: 1
+  },
+];
   
   const quiz = document.querySelector('#quiz')
   const template = document.querySelector('template')
