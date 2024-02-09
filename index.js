@@ -1,93 +1,93 @@
 const perguntas = [
   {
-    pergunta: "Qual é a capital de Acre?",
+    pergunta: "Qual é a capital do Brasil?",
     respostas: [
-      "Porto Velho",
-      "Manaus",
-      "Rio Branco",
+      "Buenos Aires",
+      "Lima",
+      "Brasília",
     ],
     correta: 2
   },
   {
-    pergunta: "Qual é a capital de Alagoas?",
+    pergunta: "Qual é a capital dos Estados Unidos?",
     respostas: [
-      "Recife",
-      "Maceió",
-      "João Pessoa",
+      "Nova York",
+      "Washington, D.C.",
+      "Los Angeles",
     ],
     correta: 1
   },
   {
-    pergunta: "Qual é a capital do Amapá?",
+    pergunta: "Qual é a capital do Japão?",
     respostas: [
-      "Belém",
-      "Macapá",
-      "Palmas",
+      "Pequim",
+      "Tóquio",
+      "Seul",
     ],
     correta: 1
   },
   {
-    pergunta: "Qual é a capital do Amazonas?",
+    pergunta: "Qual é a capital da França?",
     respostas: [
-      "Cuiabá",
-      "Manaus",
-      "Porto Velho",
+      "Londres",
+      "Berlim",
+      "Paris",
     ],
-    correta: 1
+    correta: 2
   },
   {
-    pergunta: "Qual é a capital da Bahia?",
+    pergunta: "Qual é a capital da Rússia?",
     respostas: [
-      "Salvador",
-      "Aracaju",
-      "Fortaleza",
+      "Moscovo",
+      "São Petersburgo",
+      "Kiev",
     ],
     correta: 0
   },
   {
-    pergunta: "Qual é a capital do Ceará?",
+    pergunta: "Qual é a capital da Índia?",
     respostas: [
-      "Natal",
-      "Fortaleza",
-      "São Luís",
+      "Deli",
+      "Bombaim",
+      "Calcutá",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é a capital da China?",
+    respostas: [
+      "Xangai",
+      "Pequim",
+      "Hong Kong",
     ],
     correta: 1
   },
   {
-    pergunta: "Qual é a capital do Espírito Santo?",
+    pergunta: "Qual é a capital da Alemanha?",
     respostas: [
-      "Vitória",
-      "Belo Horizonte",
-      "Curitiba",
+      "Munique",
+      "Hamburgo",
+      "Berlim",
     ],
-    correta: 0
+    correta: 2
   },
   {
-    pergunta: "Qual é a capital de Goiás?",
+    pergunta: "Qual é a capital da Itália?",
     respostas: [
-      "Goiânia",
-      "Brasília",
-      "Campo Grande",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Qual é a capital do Maranhão?",
-    respostas: [
-      "São Luís",
-      "Recife",
-      "João Pessoa",
-    ],
-    correta: 0
-  },
-  {
-    pergunta: "Qual é a capital do Mato Grosso?",
-    respostas: [
-      "Palmas",
-      "Cuiabá",
-      "Porto Alegre",
+      "Milão",
+      "Roma",
+      "Florença",
     ],
     correta: 1
+  },
+  {
+    pergunta: "Qual é a capital da Austrália?",
+    respostas: [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+    ],
+    correta: 2
   },
 ];
   
